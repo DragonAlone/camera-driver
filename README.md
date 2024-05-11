@@ -6,7 +6,7 @@ Porting OV2640 Camera onto IMX6ULL Development Board
 
 #### V4L2 subsystem architecture diagram
 
-![image-20240511150617013](C:\Users\13631\AppData\Roaming\Typora\typora-user-images\image-20240511150617013.png)
+![image](picture.png)
 
 
 #### Installation Tutorial
